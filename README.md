@@ -10,8 +10,11 @@ Sentiment Analysis on Amazon Review
 4. Return scores for if the review is positive or negative 
 5. Gives 90% accuracy on training data. 
 6. Scores for a review can be used to generalize what reviews are not according to their rating by setting some threshold value.
+7. Shall Deploy Using flask app , app.py.
+8. Predictions.py is called by app.py to predict a review
 
 
 ## Problems ##
 1.Currently , i cannot host it because heroku is having some error and i have my exam from tommorow:(
+
 2.I was not able to pretrained word embeddings , shall try it in a few days
