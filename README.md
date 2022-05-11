@@ -14,4 +14,4 @@ Sentiment Analysis on Amazon Review
 
 ## Problems ##
 1.Currently , i cannot host it because heroku is having some error and i have my exam from tommorow:(
-2.I was not able to pretrained word embeddings , shall try it in a few dats
+2.I was not able to pretrained word embeddings , shall try it in a few days
